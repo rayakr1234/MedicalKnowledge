@@ -1,2 +1,11 @@
-
 .venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+faiss_store/
+data/
+medguide_uploads_*/
+medguide_store_*/

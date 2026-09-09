@@ -3,3 +3,8 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
+sentence-transformers
+faiss-cpu
+python-dotenv
+langchain-groq
+streamlit
